@@ -1,4 +1,4 @@
-package main.java.com.aditya;
+package com.aditya;
 
 public class Main {
     public static void main(String[] args) {
