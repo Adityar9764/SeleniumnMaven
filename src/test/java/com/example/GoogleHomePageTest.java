@@ -12,7 +12,7 @@ public class GoogleHomePageTest {
     @Test
     public void testGoogleHomePage() {
         // Set the path to the ChromeDriver executable
-        System.setProperty("webdriver.chrome.driver", "C:/chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Aditya\\Downloads\\chromedriver-win64\\chromedriver-win64.exe");
 
         // Create a new instance of the Chrome driver
         WebDriver driver = new ChromeDriver();
